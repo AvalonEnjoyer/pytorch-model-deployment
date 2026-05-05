@@ -85,8 +85,7 @@ This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgements
 
-* Inspired by modern deep learning tutorials and computer vision workflows
-* Dataset creators and open-source contributors
+* Inspired by modern deep learning tutorial at https://www.learnpytorch.io/
 
 ---
 
